@@ -2,7 +2,7 @@
     "name": "dark-room",
     "displayName": "Dark Room",
     "description": "A minimal, dark theme.",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "publisher": "sharmil",
     "engines": {
         "vscode": "^1.67.0"

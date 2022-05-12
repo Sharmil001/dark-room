@@ -1,22 +1,11 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Halcyon Logo" src="https://res.cloudinary.com/dkhzfrkvg/image/upload/v1652360486/portfolio-images/Group_1_j5easz.png" width="100" />
 </p>
 <h1 align="center">
   Dark Room Theme for VS Code
 </h1>
 <p align="center">
   A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
-</p>
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/brittanychiang.halcyon-vscode.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/brittanychiang.halcyon-vscode.svg" />
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/brittanychiang.halcyon-vscode.svg" />
-  </a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
@@ -87,4 +76,4 @@ vsce publish patch/minor/major
 
 ## Shameless Plug
 
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+Dark Room is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
