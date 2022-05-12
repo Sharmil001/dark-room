@@ -1,0 +1,22 @@
+{
+    "name": "dark-room",
+    "displayName": "Dark Room",
+    "description": "A minimal, dark theme.",
+    "version": "0.0.2",
+    "publisher": "sharmil",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Room",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Room-color-theme.json"
+            }
+        ]
+    }
+}
