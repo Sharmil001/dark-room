@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://res.cloudinary.com/dkhzfrkvg/image/upload/v1652356985/portfolio-images/DR_LOGO_maj2bb.png" width="100" />
+  <img alt="Halcyon Logo" src="https://res.cloudinary.com/dkhzfrkvg/image/upload/v1652360486/portfolio-images/Group_1_j5easz.png" width="100" />
 </p>
 <h1 align="center">
   Dark Room Theme for VS Code
