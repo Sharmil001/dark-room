@@ -76,4 +76,8 @@ vsce publish patch/minor/major
 
 ## Shameless Plug
 
-Dark Room is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+<<<<<<< HEAD
+Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+=======
+Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+>>>>>>> db8633791b885c4c11e42e060d6f6eb738b82fbf
