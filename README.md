@@ -8,7 +8,9 @@
   A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+![demo](https://res.cloudinary.com/dkhzfrkvg/image/upload/v1652414312/portfolio-images/Welcomepage_r4gtqi.png)
+
+![demo](https://res.cloudinary.com/dkhzfrkvg/image/upload/v1652414312/portfolio-images/Indexpage_vg4euz.png)
 
 ## Installation via VS Code
 
