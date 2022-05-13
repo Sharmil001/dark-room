@@ -16,7 +16,7 @@
 2. Search for `Dark Room`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Halcyon**
+5. Code > Preferences > Color Theme > **Dark Room**
 
 ## Manual Installation
 
@@ -39,11 +39,11 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
 | ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff` | Keywords, constants, template literals          |
-| ![#ffd580](https://via.placeholder.com/10/ffd580?text=+) `#c0fdff77` | Functions, classes, object literal keys         |
-| ![#ffae57](https://via.placeholder.com/10/ffae57?text=+) `#ffc6ff` | Constants, operators                            |
+| ![#c0fdff77](https://via.placeholder.com/10/ffd580?text=+) `#c0fdff77` | Functions, classes, object literal keys         |
+| ![#ffc6ff](https://via.placeholder.com/10/ffae57?text=+) `#ffc6ff` | Constants, operators                            |
 | ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#c0fdff` | Special keywords, classes, markdown code blocks |
-| ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
+| ![#bae67e](https://via.placeholder.com/10/5ccfe6?text=+) `#bae67e` | Special keywords, classes, markdown code blocks |
+| ![#bae67e](https://via.placeholder.com/10/a2aabc?text=+) `#bae67e` | Variables, property names, tags                 |
 
 ### UI Colors
 
