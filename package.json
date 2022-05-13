@@ -1,14 +1,33 @@
 {
     "name": "dark-room",
     "displayName": "Dark Room",
-    "description": "A minimal, dark theme.",
-    "version": "0.0.4",
+    "description": "A dark blue theme for VS Code based on the Ayu Mirage theme.",
+    "version": "0.0.5",
     "publisher": "sharmil",
+    "icon": "images/logo.png",
+    "author": {
+        "name": "Sharmil Adroja",
+        "email": "sharmiladroja17@gmail.com"
+      },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sharmil001/dark-room"
+    },
+    "bugs": {
+        "url": "https://github.com/Sharmil001/dark-room/issues",
+        "email": "sharmiladroja17@gmail.com"
+    },
     "engines": {
         "vscode": "^1.67.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Dark Room"
     ],
     "contributes": {
         "themes": [
@@ -18,5 +37,14 @@
                 "path": "./themes/Dark Room-color-theme.json"
             }
         ]
-    }
+    },
+    "devDependencies": {
+        "@upstatement/eslint-config": "^0.4.2",
+        "@upstatement/prettier-config": "^0.3.0",
+        "babel-eslint": "^10.0.3",
+        "eslint": "^6.3.0",
+        "eslint-config-prettier": "^6.2.0",
+        "prettier": "^1.18.2",
+        "vsce": "^1.66.0"
+      }
 }

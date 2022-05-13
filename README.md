@@ -39,10 +39,10 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
 | ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff` | Keywords, constants, template literals          |
-| ![#ffd580](https://via.placeholder.com/10/ffd580?text=+) `#ffd580` | Functions, classes, object literal keys         |
-| ![#ffae57](https://via.placeholder.com/10/ffae57?text=+) `#ffae57` | Constants, operators                            |
+| ![#ffd580](https://via.placeholder.com/10/ffd580?text=+) `#c0fdff77` | Functions, classes, object literal keys         |
+| ![#ffae57](https://via.placeholder.com/10/ffae57?text=+) `#ffc6ff` | Constants, operators                            |
 | ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Special keywords, classes, markdown code blocks |
+| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#c0fdff` | Special keywords, classes, markdown code blocks |
 | ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
 
 ### UI Colors
@@ -76,8 +76,4 @@ vsce publish patch/minor/major
 
 ## Shameless Plug
 
-<<<<<<< HEAD
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
-=======
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
->>>>>>> db8633791b885c4c11e42e060d6f6eb738b82fbf
+Dark Room is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
