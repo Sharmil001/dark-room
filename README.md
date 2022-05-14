@@ -40,12 +40,12 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff` | Keywords, constants, template literals          |
-| ![#c0fdff77](https://via.placeholder.com/10/c0fdff77?text=+) `#c0fdff77` | Functions, classes, object literal keys         |
-| ![#ffc6ff](https://via.placeholder.com/10/ffc6ff?text=+) `#ffc6ff` | Constants, operators                            |
-| ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Special keywords, classes, markdown code blocks |
-| ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Variables, property names, tags                 |
+<!-- | ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff`       | Keywords, constants, template literals          | -->
+| ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff`       | Functions, classes, object literal keys         |
+| ![#ffc6ff](https://via.placeholder.com/10/ffc6ff?text=+) `#ffc6ff`       | Constants, operators                            |
+| ![#c0fdff77](https://via.placeholder.com/10/c0fdff77?text=+) `#c0fdff77` | Strings, markdown headings                      |
+| ![#c0fdff](https://via.placeholder.com/10/bae67e?text=+) `#c0fdff`       | Special keywords, classes, markdown code blocks |
+| ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc`       | Variables, property names, tags                 |
 
 ### UI Colors
 

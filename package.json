@@ -2,7 +2,7 @@
     "name": "dark-room",
     "displayName": "Dark Room Theme",
     "description": "A dark blue theme for VS Code based on the Ayu Mirage theme.",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "sharmil",
     "icon": "images/logo.png",
     "author": {

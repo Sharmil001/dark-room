@@ -104,7 +104,7 @@
 	  "editorGroupHeader.tabsBackground": "#171c28",
 	  "editorGroupHeader.tabsBorder": "#171c28",
 	  "editorGroup.emptyBackground": "#1d2433",
-	  "editorGroup.focusedEmptyBorder": "#1d2433",
+	  "editorGroup.focusedEmptyBorder": "#9bacd0",
   
 	  // Tabs
 	  "tab.activeBackground": "#1d2433",
@@ -337,7 +337,7 @@
       "terminal.ansiWhite": "#a2aabc",
       "terminal.ansiYellow": "#ffcc66",
       "terminal.selectionBackground": "#8695b733",
-      "terminalCursor.background": "#ffcc66",
+      "terminalCursor.background": "#c0fdff",
       "terminalCursor.foreground": "#c0fdff",
 	
 	  // Debug
