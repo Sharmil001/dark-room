@@ -18,7 +18,7 @@
 2. Search for `Dark Room`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Dark Room**
+5. Code > Preferences > Color Theme > **Dark Room Theme**
 
 ## Manual Installation
 
@@ -78,4 +78,4 @@ vsce publish patch/minor/major
 
 ## Shameless Plug
 
-Dark Room is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+Dark Room Theme is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
